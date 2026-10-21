@@ -149,6 +149,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [Agent Context OS](https://github.com/conorbronsdon/agent-context-os) - Portable Git-backed context and session workflow layer with first-class Claude Code, Codex, and OpenClaw support plus experimental adapters for Hermes, Cursor, and Devin.
 - [Agent Deck](https://github.com/not-so-fat/agent-deck) - One MCP for context management: bind self-improving playbooks, MCP tools, and API keys to the session.
 - [Agent Guard](https://github.com/JeongJaeSoon/agent-guard) - Real-time secret-leak guardrails for AI coding agents (Claude Code, Codex), Git hooks, and CI.
+- [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) - Behavior-guardrail hooks for Claude Code: stops agents from editing tests to fake green builds and blocks risky outbound actions (optional Nemotron semantic reviewer).
 - [Agent Guild](https://github.com/AgentTanuki/agent-guild-plugin) - Vet autonomous agents before delegating work or money, verify portable passports, use escrow, and record signed outcomes across Claude Code, Codex, MCP, A2A, and OpenClaw.
 - [Agent Harness](https://github.com/0xenzyme/agent-harness) - Coding-agent plugin that routes project work through goals, tasks, runs, evidence gates, and state sync via project adapters.
 - [Agent Harness Skills](https://github.com/yfge/agent-harness-skills) - Designs agent-ready repository harnesses with entrypoints, validation surfaces, runtime evidence, delivery records, and atomic commit guidance.
